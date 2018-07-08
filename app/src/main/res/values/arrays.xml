@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_order_by_labels">
+
+        <item>@string/settings_order_by_top_label</item>
+
+        <item>@string/settings_order_by_latest_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+
+        <item>@string/settings_order_by_top_value</item>
+
+        <item>@string/settings_order_by_latest_value</item>
+    </string-array>
+
+    <string-array name="settings_category_labels">
+
+        <item>@string/settings_default_category_label</item>
+
+        <item>@string/settings_category1_label</item>
+
+        <item>@string/settings_category2_label</item>
+
+        <item>@string/settings_category3_label</item>
+
+        <item>@string/settings_category4_label</item>
+
+        <item>@string/settings_category5_label</item>
+    </string-array>
+
+    <string-array name="settings_category_values">
+
+        <item>@string/settings_default_category_value</item>
+
+        <item>@string/settings_category1_value</item>
+
+        <item>@string/settings_category2_value</item>
+
+        <item>@string/settings_category3_value</item>
+
+        <item>@string/settings_category4_value</item>
+
+        <item>@string/settings_category5_value</item>
+    </string-array>
+
+</resources>

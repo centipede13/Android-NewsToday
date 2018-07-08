@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">NewsToday</string>
+
+    <string name="settings_menu_item">Filters</string>
+
+    <string name="settings_title">Filters</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_top_value</string>
+
+    <string name="settings_order_by_top_label">Top</string>
+    <string name="settings_order_by_top_value" translatable="false">top</string>
+
+    <string name="settings_order_by_latest_label">Latest</string>
+    <string name="settings_order_by_latest_value" translatable="false">latest</string>
+
+    <string name="settings_category_label">Category</string>
+    <string name="settings_category_key" translatable="false">category</string>
+    <string name="settings_category_default" translatable="false">@string/settings_default_category_value</string>
+
+    <string name="settings_default_category_label">General</string>
+    <string name="settings_default_category_value" translatable="false">the-times-of-india</string>
+
+    <string name="settings_category1_label">Business</string>
+    <string name="settings_category1_value" translatable="false">bloomberg</string>
+
+    <string name="settings_category2_label">Entertainment</string>
+    <string name="settings_category2_value" translatable="false">buzzfeed</string>
+
+    <string name="settings_category3_label">Technology</string>
+    <string name="settings_category3_value" translatable="false">ars-technica</string>
+
+    <string name="settings_category4_label">Sport</string>
+    <string name="settings_category4_value" translatable="false">espn</string>
+
+    <string name="settings_category5_label">Gaming</string>
+    <string name="settings_category5_value" translatable="false">ign</string>
+
+    <string-array name="sortBy">
+        <item name="Top">top</item>
+        <item name="Latest">latest</item>
+        <item name="">popular</item>
+    </string-array>
+</resources>
