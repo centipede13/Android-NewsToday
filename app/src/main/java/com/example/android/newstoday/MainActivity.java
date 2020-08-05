@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements LoaderCallbacks<L
      * URL for NEWS SOURCE data from the site
      */
     private static final String NEWS_REQUEST_URL =
-            "https://newsapi.org/v1/articles?apiKey=a65fef495a5c4156b5ca3f656ef3e312";
+            " "; /*Enter API KEY*/
 
     /**
      * Constant value for the news loader ID. We can choose any integer.
